@@ -1,6 +1,4 @@
-https://github.com/tzktz/tzktz![image](https://github.com/user-attachments/assets/67e18e0d-9a7a-482e-8d91-652d941cf3f0)
-
-
+https://www.pinterest.com/pin/750834569138964537/![image](https://github.com/user-attachments/assets/f62d7e1e-9501-4ca7-abf0-ca0a82ba9cca)
 
 <h1 align="center">Hi 👋, I'm Rachit Kaul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
