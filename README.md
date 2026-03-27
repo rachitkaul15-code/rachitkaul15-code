@@ -1,4 +1,5 @@
-https://www.pinterest.com/pin/750834569138964537/![image](https://github.com/user-attachments/assets/f62d7e1e-9501-4ca7-abf0-ca0a82ba9cca)
+https://www.thrashracing.com/wallpapers![image](https://github.com/user-attachments/assets/85713e9d-f863-4fb6-b393-13db27236e34)
+
 
 <h1 align="center">Hi 👋, I'm Rachit Kaul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
