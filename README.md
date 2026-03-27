@@ -1,4 +1,5 @@
-https://github.com/tzktz/tzktz![image](https://github.com/user-attachments/assets/8578367c-acc6-4ee8-a6d1-0e4650a4e65c)
+https://github.com/tzktz/tzktz![image](https://github.com/user-attachments/assets/67e18e0d-9a7a-482e-8d91-652d941cf3f0)
+
 
 
 <h1 align="center">Hi 👋, I'm Rachit Kaul</h1>
