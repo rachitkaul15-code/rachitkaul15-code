@@ -1,4 +1,5 @@
-https://github.com/shivbo96<img width="435" height="116" alt="image" src="https://github.com/user-attachments/assets/13bb59b9-e146-4b55-aa88-1b3db24e5185" />
+https://github.com/tzktz/tzktz![image](https://github.com/user-attachments/assets/8578367c-acc6-4ee8-a6d1-0e4650a4e65c)
+
 
 <h1 align="center">Hi 👋, I'm Rachit Kaul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
