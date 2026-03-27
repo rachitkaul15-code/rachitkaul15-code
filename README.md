@@ -1,4 +1,4 @@
-https://www.thrashracing.com/wallpapers![image](https://github.com/user-attachments/assets/85713e9d-f863-4fb6-b393-13db27236e34)
+
 
 
 <h1 align="center">Hi 👋, I'm Rachit Kaul</h1>
