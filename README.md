@@ -1,4 +1,4 @@
-https://github.com/iamprafful/iamprafful<img width="13616" height="5440" alt="image" src="https://github.com/user-attachments/assets/cb164af0-fb5d-4d84-aec8-0627df400750" />
+<img width="13616" height="5440" alt="image" src="https://github.com/user-attachments/assets/cb164af0-fb5d-4d84-aec8-0627df400750" />
 
   <h1>Hi 👋, I'm Rachit Kaul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
