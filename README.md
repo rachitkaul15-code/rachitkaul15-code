@@ -1,4 +1,4 @@
-https://github.com/dejokz![image](https://github.com/user-attachments/assets/1ef7507d-ed44-4af4-a86b-c09294e6e4a3)
+
 h1 align="center">Hi 👋, I'm Rachit Kaul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
