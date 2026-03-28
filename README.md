@@ -1,5 +1,5 @@
 
-  Hi 👋, I'm Rachit Kaul</h1>
+  <h1>Hi 👋, I'm Rachit Kaul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
